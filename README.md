@@ -1,6 +1,6 @@
 # Mobile Music Player
 
-A simple and elegant music player built with HTML, CSS, and JavaScript. This player allows you to play, pause, and navigate through a list of tracks with additional features such as volume control, random track selection, and repeat functionality.
+A light and elegant music player built with HTML, CSS, and JavaScript. This player allows you to play, pause, and navigate through a list of tracks with additional features such as volume control, random track selection, and repeat functionality.
 
 ## Features
 - Play/Pause: Start or stop the current track.
@@ -14,7 +14,7 @@ A simple and elegant music player built with HTML, CSS, and JavaScript. This pla
 
 ## Screenshot
 
-![image](https://github.com/nharjes/the_NH_Cinema/blob/main/screenshot.JPG)
+![image](https://github.com/nharjes/MusicPlayer/blob/main/MusicPlayerScreenshot.JPG)
 
 
 ## Usage
@@ -31,7 +31,7 @@ A simple and elegant music player built with HTML, CSS, and JavaScript. This pla
 - CSS
 - Javascript
 
-  ## Installation
+## Installation
 
 1. Clone the repository:
 
