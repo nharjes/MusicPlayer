@@ -110,6 +110,7 @@ function repeatTrack(){
     let current_index = track_index;
     loadTrack(current_index);
     playTrack();
+    //Wenn Track am Ende ist dann soll sich das wiederholen! und nicht so wie jetzt!//
 }
 function playpauseTrack(){
     isPlaying ? pauseTrack() : playTrack();
