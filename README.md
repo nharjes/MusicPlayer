@@ -1,4 +1,4 @@
-# Mobile Music Player
+# MelodyFlow
 
 A light and elegant music player built with HTML, CSS, and JavaScript. This player allows you to play, pause, and navigate through a list of tracks with additional features such as volume control, random track selection, and repeat functionality.
 
